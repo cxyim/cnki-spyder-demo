@@ -1,0 +1,1633 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNetMvc-Version: 4.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Sat, 09 Feb 2019 08:50:48 GMT
+Connection: close
+Content-Length: 91035
+
+
+
+
+
+<div class="lplist">
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-GXTG201701018.htm" target="_blank" class="left" title="图书馆与大众创新——第十届全国图书馆学博士生学术论坛在北京大学举行">图书馆与大众创新——第十届全国图书馆学博士生学术论坛在...&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/GXTG201701018?dbcode=CJFDLAST2017&amp;dbtype=CJFD&amp;year=2017&amp;dflag=cajdown&amp;cdno=INFO1703')" style="cursor:pointer;" data-fn="GXTG201701018" data-dbcode="CJFD" data-year="2017" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">2016年12月17日,第十届全国图书馆学博士生学术论坛在北京大学图书馆南配殿举行。本届论坛以&quot;图书馆与大众创新&quot;为主题,旨在通过学术交流,推动图书馆学的转型和创新,并努力搭建一个开放、国际化的学术交流平...</p>
+
+                <p class="source">
+                    <span title="张久珍;张鹏翼;李世娟">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b29099918%3b06258058%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b29099918%3b06258058%3b&amp;scholarName=%e5%bc%a0%e9%b9%8f%e7%bf%bc target=&#39;_blank&#39;>张鹏翼...</a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/GXTG" target="_blank">
+                            <span title="高校图书馆工作">《高校图书馆工作》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/GXTG201701" target="_blank">
+        <span>2017年01期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="图书馆学博士/图片/博士生/博士研究生">图书馆学博士</a>
+                            /
+                        <a data-key="图书馆学博士/图片/博士生/博士研究生">图片</a>
+                            /
+                        <a data-key="图书馆学博士/图片/博士生/博士研究生">博士生</a>
+                            /
+                        <a data-key="图书馆学博士/图片/博士生/博士研究生">博士研究生</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（86）</span>| <span class="time2">被引（0）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="GXTG201701018" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-TSGJ201702002.htm" target="_blank" class="left" title="齐聚学界业界专家  助力创客服务研究">齐聚学界业界专家  助力创客服务研究&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/TSGJ201702002?dbcode=CJFDLAST2017&amp;dbtype=CJFD&amp;year=2017&amp;dflag=cajdown&amp;cdno=INFO1703')" style="cursor:pointer;" data-fn="TSGJ201702002" data-dbcode="CJFD" data-year="2017" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">2016年,&quot;双创&quot;一词进入大众视野,并作为国家创新发展战略写入政府工作报告。图书馆事业也面临着创造性转化和创新性发展的历史机遇。为服务国家战略、适应社会需求,图书馆界在满足读者创业创新的信息服务需...</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/TSGJ" target="_blank">
+                            <span title="图书馆建设">《图书馆建设》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/TSGJ201702" target="_blank">
+        <span>2017年02期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="创客/公共图书馆/创客空间/专家">创客</a>
+                            /
+                        <a data-key="创客/公共图书馆/创客空间/专家">公共图书馆</a>
+                            /
+                        <a data-key="创客/公共图书馆/创客空间/专家">创客空间</a>
+                            /
+                        <a data-key="创客/公共图书馆/创客空间/专家">专家</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（231）</span>| <span class="time2">被引（0）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="TSGJ201702002" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-SDTG201403008.htm" target="_blank" class="left" title="美国“图书馆之友”募资活动的成效与启示">美国“图书馆之友”募资活动的成效与启示&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/SDTG201403008?dbcode=CJFD2014&amp;dbtype=CJFD&amp;year=2014&amp;dflag=cajdown&amp;cdno=INFO1408S2')" style="cursor:pointer;" data-fn="SDTG201403008" data-dbcode="CJFD" data-year="2014" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">&quot;图书馆之友&quot;是图书馆争取社会援助,缓解经费紧张的有力组织。本文通过文献调研和案例分析,对美国&quot;图书馆之友&quot;的募资活动进行了研究,在此基础上设立了一个比较完善的&quot;图书馆之友&quot;募资...</p>
+
+                <p class="source">
+                    <span title="张久珍;苗美娟">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b31313853%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b31313853%3b&amp;scholarName=%e8%8b%97%e7%be%8e%e5%a8%9f target=&#39;_blank&#39;>苗美娟</a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/SDTG" target="_blank">
+                            <span title="山东图书馆学刊">《山东图书馆学刊》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/SDTG201403" target="_blank">
+        <span>2014年03期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="“图书馆之友”/募资/改善措施">“图书馆之友”</a>
+                            /
+                        <a data-key="“图书馆之友”/募资/改善措施">募资</a>
+                            /
+                        <a data-key="“图书馆之友”/募资/改善措施">改善措施</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（86）</span>| <span class="time2">被引（0）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="SDTG201403008" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZGTS200803013.htm" target="_blank" class="left" title="网络竞合中的图书馆学理论研究">网络竞合中的图书馆学理论研究&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/ZGTS200803013?dbcode=CJFD2008&amp;dbtype=CJFD&amp;year=2008&amp;dflag=cajdown&amp;cdno=INFO0807S2')" style="cursor:pointer;" data-fn="ZGTS200803013" data-dbcode="CJFD" data-year="2008" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">扫描2007年度国外图书馆学研究进展,针对图书馆学理论、信息资源建设、信息与知识组织、用户研究、图书馆伦理与法律、图书馆管理思想与模式、开放获取、数字图书馆技术等8个方面的研究进行述评。</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZGTS" target="_blank">
+                            <span title="中国图书馆学报">《中国图书馆学报》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/ZGTS200803" target="_blank">
+        <span>2008年03期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="图书馆学理论/信息资源建设/知识组织/用户研究">图书馆学理论</a>
+                            /
+                        <a data-key="图书馆学理论/信息资源建设/知识组织/用户研究">信息资源建设</a>
+                            /
+                        <a data-key="图书馆学理论/信息资源建设/知识组织/用户研究">知识组织</a>
+                            /
+                        <a data-key="图书馆学理论/信息资源建设/知识组织/用户研究">用户研究</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（438）</span>| <span class="time2">被引（0）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="ZGTS200803013" style="display:none;"></div>
+            </div>
+                        <div id="image_result" style="display:none;"></div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-GXTG200001002.htm" target="_blank" class="left" title="论21世纪的大学图书馆">论21世纪的大学图书馆&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/GXTG200001002?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=INFO0007')" style="cursor:pointer;" data-fn="GXTG200001002" data-dbcode="CJFD" data-year="2000" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">从高等教育的角度阐明了大学与大学图书馆之间的关系 ,指明大学图书馆在新的世纪里将起到越来越重要的作用。</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/GXTG" target="_blank">
+                            <span title="高校图书馆工作">《高校图书馆工作》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/GXTG200001" target="_blank">
+        <span>2000年01期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="21世纪/大学图书馆">21世纪</a>
+                            /
+                        <a data-key="21世纪/大学图书馆">大学图书馆</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（53）</span>| <span class="time2">被引（18）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="GXTG200001002" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-SDTG200001028.htm" target="_blank" class="left" title="因特网时代信息传播媒体的新特征与新问题">因特网时代信息传播媒体的新特征与新问题&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/SDTG200001028?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=INFO0008S2')" style="cursor:pointer;" data-fn="SDTG200001028" data-dbcode="CJFD" data-year="2000" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">以因特网为代表的网络传播媒体出现并迅速发展 ,网络媒体呈现出许多新特征 ,同时也面临着很多新问题。本文针对新的信息环境揭示网络传播媒体的新特征与新问题 ,同时还指出传统媒体与网络媒体的关系。</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/SDTG" target="_blank">
+                            <span title="山东图书馆季刊">《山东图书馆季刊》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/SDTG200001" target="_blank">
+        <span>2000年01期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="因特网/信息传播/传播媒体/网络媒体">因特网</a>
+                            /
+                        <a data-key="因特网/信息传播/传播媒体/网络媒体">信息传播</a>
+                            /
+                        <a data-key="因特网/信息传播/传播媒体/网络媒体">传播媒体</a>
+                            /
+                        <a data-key="因特网/信息传播/传播媒体/网络媒体">网络媒体</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（205）</span>| <span class="time2">被引（6）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="SDTG200001028" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-DXTQ201202020.htm" target="_blank" class="left" title="图书馆为弱势群体服务的实践与探索——以青岛市图书馆为例">图书馆为弱势群体服务的实践与探索——以青岛市图书馆为例&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/DXTQ201202020?dbcode=CJFD2012&amp;dbtype=CJFD&amp;year=2012&amp;dflag=cajdown&amp;cdno=INFO1205')" style="cursor:pointer;" data-fn="DXTQ201202020" data-dbcode="CJFD" data-year="2012" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">文章阐述了弱势群体的构成及其基本特征,详细介绍了青岛市图书馆针对弱势群体开展的服务实践,并从图书馆员的素质和服务水平、服务设施建设以及文献资源建设等方面,提出进一步改进弱势群体服务的措施。</p>
+
+                <p class="source">
+                    <span title="张久珍;孙建丽">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b11719842%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b11719842%3b&amp;scholarName=%e5%ad%99%e5%bb%ba%e4%b8%bd target=&#39;_blank&#39;>孙建丽</a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/DXTQ" target="_blank">
+                            <span title="大学图书情报学刊">《大学图书情报学刊》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/DXTQ201202" target="_blank">
+        <span>2012年02期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="弱势群体/青岛市/公共图书馆/读者服务">弱势群体</a>
+                            /
+                        <a data-key="弱势群体/青岛市/公共图书馆/读者服务">青岛市</a>
+                            /
+                        <a data-key="弱势群体/青岛市/公共图书馆/读者服务">公共图书馆</a>
+                            /
+                        <a data-key="弱势群体/青岛市/公共图书馆/读者服务">读者服务</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（134）</span>| <span class="time2">被引（1）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="DXTQ201202020" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-TSSS200205030.htm" target="_blank" class="left" title="美国图书馆因特网过滤政策评析">美国图书馆因特网过滤政策评析&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/TSSS200205030?dbcode=CJFD2002&amp;dbtype=CJFD&amp;year=2002&amp;dflag=cajdown&amp;cdno=INFO0302')" style="cursor:pointer;" data-fn="TSSS200205030" data-dbcode="CJFD" data-year="2002" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">本文介绍了过滤软件在美国一些图书馆的实施情况,及美国图书馆界各方关于因特网过滤政策所持的不同意见,对美国图书馆因特网过滤政策的特征作出了归纳与评析。</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/TSSS" target="_blank">
+                            <span title="图书馆学研究">《图书馆学研究》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/TSSS200205" target="_blank">
+        <span>2002年05期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="图书馆政策/因特网过滤/美国">图书馆政策</a>
+                            /
+                        <a data-key="图书馆政策/因特网过滤/美国">因特网过滤</a>
+                            /
+                        <a data-key="图书馆政策/因特网过滤/美国">美国</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（75）</span>| <span class="time2">被引（3）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="TSSS200205030" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-DXTS201504008.htm" target="_blank" class="left" title="2015年教育部高等学校图书馆学专业教学指导委员会工作会议暨系主任联席会议在黑龙江大学信息管理学院召开">2015年教育部高等学校图书馆学专业教学指导委员会工作会议...&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/DXTS201504008?dbcode=CJFDLAST2015&amp;dbtype=CJFD&amp;year=2015&amp;dflag=cajdown&amp;cdno=INFO1510')" style="cursor:pointer;" data-fn="DXTS201504008" data-dbcode="CJFD" data-year="2015" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">2015年6月27日,2015年教育部高等学校图书馆学专业教学指导委员会工作会议暨系主任联席会议在哈尔滨黑龙江大学信息管理学院召开。26名图书馆学专业教学指导委员会委员及来自全国30余所信息管理院系的院长、系主任出席...</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/DXTS" target="_blank">
+                            <span title="大学图书馆学报">《大学图书馆学报》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/DXTS201504" target="_blank">
+        <span>2015年04期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="教学指导委员会/黑龙江大学/信息管理学院/高等学校图书馆">教学指导委员会</a>
+                            /
+                        <a data-key="教学指导委员会/黑龙江大学/信息管理学院/高等学校图书馆">黑龙江大学</a>
+                            /
+                        <a data-key="教学指导委员会/黑龙江大学/信息管理学院/高等学校图书馆">信息管理学院</a>
+                            /
+                        <a data-key="教学指导委员会/黑龙江大学/信息管理学院/高等学校图书馆">高等学校图书馆</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（151）</span>| <span class="time2">被引（0）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="DXTS201504008" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-SZTG200603004.htm" target="_blank" class="left" title="GOOGLE数字图书馆计划考量合理使用原则">GOOGLE数字图书馆计划考量合理使用原则&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/SZTG200603004?dbcode=CJFDTEMP&amp;dbtype=CJFD&amp;year=2006&amp;dflag=cajdown&amp;cdno=cajtmp')" style="cursor:pointer;" data-fn="SZTG200603004" data-dbcode="CJFD" data-year="2006" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">本文介绍了Google数字图书馆计划面临两起诉讼的缘由,分析了Google数字图书馆计划是否适用合理使用原则的问题。并结合分析我国《信息网络传播权保护条例》(草案)的颁布在合理使用原则问题上引发的争议,提出图书馆积极...</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/SZTG" target="_blank">
+                            <span title="数字图书馆论坛">《数字图书馆论坛》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/SZTG200603" target="_blank">
+        <span>2006年03期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="Google数字图书馆计划/合理使用原则/信息普遍获取">Google数字图书馆计划</a>
+                            /
+                        <a data-key="Google数字图书馆计划/合理使用原则/信息普遍获取">合理使用原则</a>
+                            /
+                        <a data-key="Google数字图书馆计划/合理使用原则/信息普遍获取">信息普遍获取</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（8）</span>| <span class="time2">被引（0）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="SZTG200603004" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-SZTG200604041.htm" target="_blank" class="left" title="国外视音频信息元数据研究项目综述">国外视音频信息元数据研究项目综述&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/SZTG200604041?dbcode=CJFDTEMP&amp;dbtype=CJFD&amp;year=2006&amp;dflag=cajdown&amp;cdno=cajtmp')" style="cursor:pointer;" data-fn="SZTG200604041" data-dbcode="CJFD" data-year="2006" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">图书馆论坛2005.12 p218-221视音频信息元数据研究是一个比较新的研究课题,到目前为止,视音频元数据还没有统一的研究方案,很多机构、研究小组纷纷立项研制各种元数据计划和方案,使得当前视音频元数据研究项目呈现出多...</p>
+
+                <p class="source">
+                    <span title="张久珍;段明莲;沈正华">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e6%ae%b5%e6%98%8e%e8%8e%b2 target=&#39;_blank&#39;>段明莲...</a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/SZTG" target="_blank">
+                            <span title="数字图书馆论坛">《数字图书馆论坛》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/SZTG200604" target="_blank">
+        <span>2006年04期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="视音频/元数据">视音频</a>
+                            /
+                        <a data-key="视音频/元数据">元数据</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（26）</span>| <span class="time2">被引（0）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="SZTG200604041" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZGTS201305018.htm" target="_blank" class="left" title="第三届教育部高校图书馆学专业教学指导委员会成立">第三届教育部高校图书馆学专业教学指导委员会成立&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/ZGTS201305018?dbcode=CJFD2013&amp;dbtype=CJFD&amp;year=2013&amp;dflag=cajdown&amp;cdno=INFO1312S5')" style="cursor:pointer;" data-fn="ZGTS201305018" data-dbcode="CJFD" data-year="2013" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">第三届(2013—2017年)教育部高等学校图书馆学专业教学指导委员会成立大会暨第一次工作会议于2013年8月22日—25日在兰州大学召开,会议由兰州大学管理学院承办。教学指导委员会是教育部聘请并领导的专家组织,接受教育...</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZGTS" target="_blank">
+                            <span title="中国图书馆学报">《中国图书馆学报》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/ZGTS201305" target="_blank">
+        <span>2013年05期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="图书馆学/教学指导委员会/教育部/教育行政组织">图书馆学</a>
+                            /
+                        <a data-key="图书馆学/教学指导委员会/教育部/教育行政组织">教学指导委员会</a>
+                            /
+                        <a data-key="图书馆学/教学指导委员会/教育部/教育行政组织">教育部</a>
+                            /
+                        <a data-key="图书馆学/教学指导委员会/教育部/教育行政组织">教育行政组织</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（123）</span>| <span class="time2">被引（0）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="ZGTS201305018" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZXTS200004023.htm" target="_blank" class="left" title="美国农村图书馆与少年儿童信息服务">美国农村图书馆与少年儿童信息服务&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/ZXTS200004023?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=SOCI00S3')" style="cursor:pointer;" data-fn="ZXTS200004023" data-dbcode="CJFD" data-year="2000" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">美国农村图书馆受各种因素的限制发展不够充分。但是,在偏远地区,这些图书馆对当地的信息需求起着不可或缺的作用。在其它文献信息机构缺乏的情况下,农村图书馆提供的信息服务尽管不充分,也是很有必要的。特别是对于少...</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZXTS" target="_blank">
+                            <span title="中小学图书情报世界">《中小学图书情报世界》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/ZXTS200004" target="_blank">
+        <span>2000年04期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="少年儿童/农村图书馆/图书馆员/图书馆工作人员">少年儿童</a>
+                            /
+                        <a data-key="少年儿童/农村图书馆/图书馆员/图书馆工作人员">农村图书馆</a>
+                            /
+                        <a data-key="少年儿童/农村图书馆/图书馆员/图书馆工作人员">图书馆员</a>
+                            /
+                        <a data-key="少年儿童/农村图书馆/图书馆员/图书馆工作人员">图书馆工作人员</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（180）</span>| <span class="time2">被引（4）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="ZXTS200004023" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-TSGL200004031.htm" target="_blank" class="left" title="对我国信息服务业的立法思考">对我国信息服务业的立法思考&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/TSGL200004031?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=INFO0011S1')" style="cursor:pointer;" data-fn="TSGL200004031" data-dbcode="CJFD" data-year="2000" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">针对我国信息服务业的现状 ,论述了我国信息服务业立法的必要性 ,进行立法的相关法律法规及政策基础 ,立法原则与立法内容 ,以及我国信息服务业走向法制化的必要措施。</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/TSGL" target="_blank">
+                            <span title="图书馆论坛">《图书馆论坛》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/TSGL200004" target="_blank">
+        <span>2000年04期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="信息服务/信息服务业/立法/法制化">信息服务</a>
+                            /
+                        <a data-key="信息服务/信息服务业/立法/法制化">信息服务业</a>
+                            /
+                        <a data-key="信息服务/信息服务业/立法/法制化">立法</a>
+                            /
+                        <a data-key="信息服务/信息服务业/立法/法制化">法制化</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（81）</span>| <span class="time2">被引（2）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="TSGL200004031" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-JTXU200001002.htm" target="_blank" class="left" title="论因特网对传统图书馆馆藏的影响">论因特网对传统图书馆馆藏的影响&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/JTXU200001002?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=INFO0006')" style="cursor:pointer;" data-fn="JTXU200001002" data-dbcode="CJFD" data-year="2000" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">重点论述了因特网对传统图书馆馆藏微观构成和宏观构成的改变 ,以及因特网环境中图书馆馆藏文献功能的强化。文章指出在因特网环境中图书馆进行馆藏发展工作所需采取的策略。</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/JTXU" target="_blank">
+                            <span title="晋图学刊">《晋图学刊》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/JTXU200001" target="_blank">
+        <span>2000年01期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="因特网/传统图书馆/馆藏构成/藏书建设">因特网</a>
+                            /
+                        <a data-key="因特网/传统图书馆/馆藏构成/藏书建设">传统图书馆</a>
+                            /
+                        <a data-key="因特网/传统图书馆/馆藏构成/藏书建设">馆藏构成</a>
+                            /
+                        <a data-key="因特网/传统图书馆/馆藏构成/藏书建设">藏书建设</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（45）</span>| <span class="time2">被引（4）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="JTXU200001002" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZGTS201001015.htm" target="_blank" class="left" title="2009年全国图书馆学博士生学术会议暨北京大学图书馆学开放论坛在京举办">2009年全国图书馆学博士生学术会议暨北京大学图书馆学开放...&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/ZGTS201001015?dbcode=CJFD2010&amp;dbtype=CJFD&amp;year=2010&amp;dflag=cajdown&amp;cdno=INFO1003S4')" style="cursor:pointer;" data-fn="ZGTS201001015" data-dbcode="CJFD" data-year="2010" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">2009年全国图书馆学博士生学术会议暨北京大学图书馆学开放论坛于11月28-29日在北京大学举办,来自北京大学、武汉大学、南京大学、中山大学、南开大学、南京政治学院上海分院、中科院国家科学图书馆等七家图书馆学博士...</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZGTS" target="_blank">
+                            <span title="中国图书馆学报">《中国图书馆学报》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/ZGTS201001" target="_blank">
+        <span>2010年01期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="图书馆学博士/开放论坛/北京大学图书馆/会议">图书馆学博士</a>
+                            /
+                        <a data-key="图书馆学博士/开放论坛/北京大学图书馆/会议">开放论坛</a>
+                            /
+                        <a data-key="图书馆学博士/开放论坛/北京大学图书馆/会议">北京大学图书馆</a>
+                            /
+                        <a data-key="图书馆学博士/开放论坛/北京大学图书馆/会议">会议</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（205）</span>| <span class="time2">被引（0）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="ZGTS201001015" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-HKTY200101023.htm" target="_blank" class="left" title="外文传播学核心期刊研制分析">外文传播学核心期刊研制分析&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/HKTY200101023?dbcode=CJFD2001&amp;dbtype=CJFD&amp;year=2001&amp;dflag=cajdown&amp;cdno=INFO0106')" style="cursor:pointer;" data-fn="HKTY200101023" data-dbcode="CJFD" data-year="2001" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">论述了 1 997年版和 1 999年版《国外人文社会科学核心期刊总览》中传播学类核心期刊研制的过程、一版的不足和二版的改进 ,并对第三版的研制工作提出了建议</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/HKTY" target="_blank">
+                            <span title="河北科技图苑">《河北科技图苑》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/HKTY200101" target="_blank">
+        <span>2001年01期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="传播学/核心期刊/文献计量学">传播学</a>
+                            /
+                        <a data-key="传播学/核心期刊/文献计量学">核心期刊</a>
+                            /
+                        <a data-key="传播学/核心期刊/文献计量学">文献计量学</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（102）</span>| <span class="time2">被引（0）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="HKTY200101023" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZWQW200109026.htm" target="_blank" class="left" title="信息时代的新兴职业──信息经纪人">信息时代的新兴职业──信息经纪人&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/ZWQW200109026?dbcode=CJFD2001&amp;dbtype=CJFD&amp;year=2001&amp;dflag=cajdown&amp;cdno=ELAW0110')" style="cursor:pointer;" data-fn="ZWQW200109026" data-dbcode="CJFD" data-year="2001" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">信息经纪人是信息市场 发展的必然要求 随着信息技术的发展，人们收集、利用、传播信息的方式在发生变化。有人称“信息与传播的金色年代”已经来临，“信息社会”、“信息时代”的说法更是越来越多。但是，信息社会并...</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZWQW" target="_blank">
+                            <span title="中外企业文化">《中外企业文化》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/ZWQW200109" target="_blank">
+        <span>2001年09期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="信息经纪人/企业/企业管理/新兴职业">信息经纪人</a>
+                            /
+                        <a data-key="信息经纪人/企业/企业管理/新兴职业">企业</a>
+                            /
+                        <a data-key="信息经纪人/企业/企业管理/新兴职业">企业管理</a>
+                            /
+                        <a data-key="信息经纪人/企业/企业管理/新兴职业">新兴职业</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（50）</span>| <span class="time2">被引（6）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="ZWQW200109026" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-HKTY200001002.htm" target="_blank" class="left" title="Internet对传统图书馆的正负影响分析">Internet对传统图书馆的正负影响分析&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/HKTY200001002?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=INFO0006')" style="cursor:pointer;" data-fn="HKTY200001002" data-dbcode="CJFD" data-year="2000" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">分析了 Internet对图书馆所产生的积极作用及 Internet给图书馆带来的负面影响。通过 Internet对图书馆正负影响的分析 ,使我们清楚地认识到 :Internet的确对图书馆产生了巨大的积极作用 ,同时 Internet对图书馆的负面...</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/HKTY" target="_blank">
+                            <span title="河北科技图苑">《河北科技图苑》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/HKTY200001" target="_blank">
+        <span>2000年01期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="因特网/传统图书馆/网络图书馆/影响">因特网</a>
+                            /
+                        <a data-key="因特网/传统图书馆/网络图书馆/影响">传统图书馆</a>
+                            /
+                        <a data-key="因特网/传统图书馆/网络图书馆/影响">网络图书馆</a>
+                            /
+                        <a data-key="因特网/传统图书馆/网络图书馆/影响">影响</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（29）</span>| <span class="time2">被引（5）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="HKTY200001002" style="display:none;"></div>
+            </div>
+            <div class="list-item">
+                <p class="tit clearfix">
+
+                <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZWQW200001020.htm" target="_blank" class="left" title="企业信息资源管理发展趋势">企业信息资源管理发展趋势&nbsp;&nbsp;CNKI文献</a>
+
+                    <a class="download left" href="javascript:void(0)" onclick="goDownload('/Home/DownloadArticle/ZWQW200001020?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=ELAW0007S2')" style="cursor:pointer;" data-fn="ZWQW200001020" data-dbcode="CJFD" data-year="2000" title="下载"></a>
+                    
+                    
+                </p>
+                <p class="nr">信息资源与信息资源管理，随着社会的发展与技术的进步而不断发生变化。自90年代以来，人类社会信息环境在高新信息技术的支持下发生了巨大的变化。网络技术的普遍应用影响着世界经济、文化，特别是信息高速公路的浪潮...</p>
+
+                <p class="source">
+                    <span title="张久珍">
+                    <a href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39;><span style='color:red'>张久珍</span></a>
+
+
+                    </span>
+                                            <a href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZWQW" target="_blank">
+                            <span title="中外企业文化">《中外企业文化》</span>
+                        </a>
+                        <a href="/cjfd/Home/Detail/ZWQW200001" target="_blank">
+        <span>2000年01期</span>
+    </a>
+                    
+                    <span>期刊</span>
+                </p>
+                <div class="info">
+                    <p class="info_left left">
+                        关键词：
+                        <a data-key="企业/企业管理/信息资源管理/企业分支机构">企业</a>
+                            /
+                        <a data-key="企业/企业管理/信息资源管理/企业分支机构">企业管理</a>
+                            /
+                        <a data-key="企业/企业管理/信息资源管理/企业分支机构">信息资源管理</a>
+                            /
+                        <a data-key="企业/企业管理/信息资源管理/企业分支机构">企业分支机构</a>
+
+                        
+                    </p>
+                    <p class="info_right right"><span class="time1">下载（272）</span>| <span class="time2">被引（1）</span></p>
+                </div>
+                <div class="checkbox1" data-fn="ZWQW200001020" style="display:none;"></div>
+            </div>
+
+</div>
+    <table style="display:none" class="re-table" cellpadding="0" cellspacing="0" width="734">
+        <tbody>
+            <tr class="even-row">
+                <th width="32"></th>
+                <th width="290">题&nbsp;&nbsp;&nbsp;名</th>
+                <th width="64">作者</th>
+                <th width="95">来&nbsp;&nbsp;&nbsp;源</th>
+                <th width="79">发表时间</th>
+                <th width="40">类型</th>
+                <th width="37">被引</th>
+                <th width="50">下载</th>
+                <th class="bdgray" width="42">操作</th>
+            </tr>
+        <tr class="">
+            <td>
+                <span class="index">21</span>            
+                <span class="checkbox1" data-fn="GXTG201701018" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-GXTG201701018.htm" target="_blank" title="图书馆与大众创新——第十届全国图书馆学博士生学术论坛在北京大学举行">图书馆与大众创新——第十届全国图书馆学博士生学术论坛在北京大学举行</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b29099918%3b06258058%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b29099918%3b06258058%3b&amp;scholarName=%e5%bc%a0%e9%b9%8f%e7%bf%bc target=&#39;_blank&#39; title="">张鹏翼</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/GXTG" title="高校图书馆工作" target="_blank">《高校图书馆工作》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2017-01-15
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>0</div></td>
+            <td><div>86</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/GXTG201701018?dbcode=CJFDLAST2017&amp;dbtype=CJFD&amp;year=2017&amp;dflag=cajdown&amp;cdno=INFO1703" target="_blank" style="cursor:pointer;" data-fn="GXTG201701018" data-dbcode="CJFD" data-year="2017" title="下载"></a></td>
+        </tr>
+        <tr class="even-row">
+            <td>
+                <span class="index">22</span>            
+                <span class="checkbox1" data-fn="TSGJ201702002" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-TSGJ201702002.htm" target="_blank" title="齐聚学界业界专家  助力创客服务研究">齐聚学界业界专家  助力创客服务研究</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/TSGJ" title="图书馆建设" target="_blank">《图书馆建设》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2017-02-15 16:45
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>0</div></td>
+            <td><div>231</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/TSGJ201702002?dbcode=CJFDLAST2017&amp;dbtype=CJFD&amp;year=2017&amp;dflag=cajdown&amp;cdno=INFO1703" target="_blank" style="cursor:pointer;" data-fn="TSGJ201702002" data-dbcode="CJFD" data-year="2017" title="下载"></a></td>
+        </tr>
+        <tr class="">
+            <td>
+                <span class="index">23</span>            
+                <span class="checkbox1" data-fn="SDTG201403008" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-SDTG201403008.htm" target="_blank" title="美国“图书馆之友”募资活动的成效与启示">美国“图书馆之友”募资活动的成效与启示</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b31313853%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b31313853%3b&amp;scholarName=%e8%8b%97%e7%be%8e%e5%a8%9f target=&#39;_blank&#39; title="">苗美娟</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/SDTG" title="山东图书馆学刊" target="_blank">《山东图书馆学刊》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2014-06-28
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>0</div></td>
+            <td><div>86</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/SDTG201403008?dbcode=CJFD2014&amp;dbtype=CJFD&amp;year=2014&amp;dflag=cajdown&amp;cdno=INFO1408S2" target="_blank" style="cursor:pointer;" data-fn="SDTG201403008" data-dbcode="CJFD" data-year="2014" title="下载"></a></td>
+        </tr>
+        <tr class="even-row">
+            <td>
+                <span class="index">24</span>            
+                <span class="checkbox1" data-fn="ZGTS200803013" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZGTS200803013.htm" target="_blank" title="网络竞合中的图书馆学理论研究">网络竞合中的图书馆学理论研究</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZGTS" title="中国图书馆学报" target="_blank">《中国图书馆学报》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2008-05-15
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>0</div></td>
+            <td><div>438</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/ZGTS200803013?dbcode=CJFD2008&amp;dbtype=CJFD&amp;year=2008&amp;dflag=cajdown&amp;cdno=INFO0807S2" target="_blank" style="cursor:pointer;" data-fn="ZGTS200803013" data-dbcode="CJFD" data-year="2008" title="下载"></a></td>
+        </tr>
+        <tr class="">
+            <td>
+                <span class="index">25</span>            
+                <span class="checkbox1" data-fn="GXTG200001002" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-GXTG200001002.htm" target="_blank" title="论21世纪的大学图书馆">论21世纪的大学图书馆</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/GXTG" title="高校图书馆工作" target="_blank">《高校图书馆工作》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2000-03-25
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>18</div></td>
+            <td><div>53</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/GXTG200001002?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=INFO0007" target="_blank" style="cursor:pointer;" data-fn="GXTG200001002" data-dbcode="CJFD" data-year="2000" title="下载"></a></td>
+        </tr>
+        <tr class="even-row">
+            <td>
+                <span class="index">26</span>            
+                <span class="checkbox1" data-fn="SDTG200001028" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-SDTG200001028.htm" target="_blank" title="因特网时代信息传播媒体的新特征与新问题">因特网时代信息传播媒体的新特征与新问题</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/SDTG" title="山东图书馆季刊" target="_blank">《山东图书馆季刊》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2000-03-25
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>6</div></td>
+            <td><div>205</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/SDTG200001028?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=INFO0008S2" target="_blank" style="cursor:pointer;" data-fn="SDTG200001028" data-dbcode="CJFD" data-year="2000" title="下载"></a></td>
+        </tr>
+        <tr class="">
+            <td>
+                <span class="index">27</span>            
+                <span class="checkbox1" data-fn="DXTQ201202020" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-DXTQ201202020.htm" target="_blank" title="图书馆为弱势群体服务的实践与探索——以青岛市图书馆为例">图书馆为弱势群体服务的实践与探索——以青岛市图书馆为例</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b11719842%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b11719842%3b&amp;scholarName=%e5%ad%99%e5%bb%ba%e4%b8%bd target=&#39;_blank&#39; title="">孙建丽</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/DXTQ" title="大学图书情报学刊" target="_blank">《大学图书情报学刊》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2012-03-10
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>1</div></td>
+            <td><div>134</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/DXTQ201202020?dbcode=CJFD2012&amp;dbtype=CJFD&amp;year=2012&amp;dflag=cajdown&amp;cdno=INFO1205" target="_blank" style="cursor:pointer;" data-fn="DXTQ201202020" data-dbcode="CJFD" data-year="2012" title="下载"></a></td>
+        </tr>
+        <tr class="even-row">
+            <td>
+                <span class="index">28</span>            
+                <span class="checkbox1" data-fn="TSSS200205030" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-TSSS200205030.htm" target="_blank" title="美国图书馆因特网过滤政策评析">美国图书馆因特网过滤政策评析</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/TSSS" title="图书馆学研究" target="_blank">《图书馆学研究》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2002-05-30
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>3</div></td>
+            <td><div>75</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/TSSS200205030?dbcode=CJFD2002&amp;dbtype=CJFD&amp;year=2002&amp;dflag=cajdown&amp;cdno=INFO0302" target="_blank" style="cursor:pointer;" data-fn="TSSS200205030" data-dbcode="CJFD" data-year="2002" title="下载"></a></td>
+        </tr>
+        <tr class="">
+            <td>
+                <span class="index">29</span>            
+                <span class="checkbox1" data-fn="DXTS201504008" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-DXTS201504008.htm" target="_blank" title="2015年教育部高等学校图书馆学专业教学指导委员会工作会议暨系主任联席会议在黑龙江大学信息管理学院召开">2015年教育部高等学校图书馆学专业教学指导委员会工作会议暨系主任联席...</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/DXTS" title="大学图书馆学报" target="_blank">《大学图书馆学报》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2015-07-21
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>0</div></td>
+            <td><div>151</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/DXTS201504008?dbcode=CJFDLAST2015&amp;dbtype=CJFD&amp;year=2015&amp;dflag=cajdown&amp;cdno=INFO1510" target="_blank" style="cursor:pointer;" data-fn="DXTS201504008" data-dbcode="CJFD" data-year="2015" title="下载"></a></td>
+        </tr>
+        <tr class="even-row">
+            <td>
+                <span class="index">30</span>            
+                <span class="checkbox1" data-fn="SZTG200603004" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-SZTG200603004.htm" target="_blank" title="GOOGLE数字图书馆计划考量合理使用原则">GOOGLE数字图书馆计划考量合理使用原则</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/SZTG" title="数字图书馆论坛" target="_blank">《数字图书馆论坛》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2006-03-25
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>0</div></td>
+            <td><div>8</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/SZTG200603004?dbcode=CJFDTEMP&amp;dbtype=CJFD&amp;year=2006&amp;dflag=cajdown&amp;cdno=cajtmp" target="_blank" style="cursor:pointer;" data-fn="SZTG200603004" data-dbcode="CJFD" data-year="2006" title="下载"></a></td>
+        </tr>
+        <tr class="">
+            <td>
+                <span class="index">31</span>            
+                <span class="checkbox1" data-fn="SZTG200604041" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-SZTG200604041.htm" target="_blank" title="国外视音频信息元数据研究项目综述">国外视音频信息元数据研究项目综述</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e6%ae%b5%e6%98%8e%e8%8e%b2 target=&#39;_blank&#39; title="">段明莲</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/SZTG" title="数字图书馆论坛" target="_blank">《数字图书馆论坛》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2006-04-25
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>0</div></td>
+            <td><div>26</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/SZTG200604041?dbcode=CJFDTEMP&amp;dbtype=CJFD&amp;year=2006&amp;dflag=cajdown&amp;cdno=cajtmp" target="_blank" style="cursor:pointer;" data-fn="SZTG200604041" data-dbcode="CJFD" data-year="2006" title="下载"></a></td>
+        </tr>
+        <tr class="even-row">
+            <td>
+                <span class="index">32</span>            
+                <span class="checkbox1" data-fn="ZGTS201305018" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZGTS201305018.htm" target="_blank" title="第三届教育部高校图书馆学专业教学指导委员会成立">第三届教育部高校图书馆学专业教学指导委员会成立</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZGTS" title="中国图书馆学报" target="_blank">《中国图书馆学报》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2013-09-15
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>0</div></td>
+            <td><div>123</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/ZGTS201305018?dbcode=CJFD2013&amp;dbtype=CJFD&amp;year=2013&amp;dflag=cajdown&amp;cdno=INFO1312S5" target="_blank" style="cursor:pointer;" data-fn="ZGTS201305018" data-dbcode="CJFD" data-year="2013" title="下载"></a></td>
+        </tr>
+        <tr class="">
+            <td>
+                <span class="index">33</span>            
+                <span class="checkbox1" data-fn="ZXTS200004023" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZXTS200004023.htm" target="_blank" title="美国农村图书馆与少年儿童信息服务">美国农村图书馆与少年儿童信息服务</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZXTS" title="中小学图书情报世界" target="_blank">《中小学图书情报世界》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2000-04-15
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>4</div></td>
+            <td><div>180</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/ZXTS200004023?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=SOCI00S3" target="_blank" style="cursor:pointer;" data-fn="ZXTS200004023" data-dbcode="CJFD" data-year="2000" title="下载"></a></td>
+        </tr>
+        <tr class="even-row">
+            <td>
+                <span class="index">34</span>            
+                <span class="checkbox1" data-fn="TSGL200004031" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-TSGL200004031.htm" target="_blank" title="对我国信息服务业的立法思考">对我国信息服务业的立法思考</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/TSGL" title="图书馆论坛" target="_blank">《图书馆论坛》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2000-08-20
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>2</div></td>
+            <td><div>81</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/TSGL200004031?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=INFO0011S1" target="_blank" style="cursor:pointer;" data-fn="TSGL200004031" data-dbcode="CJFD" data-year="2000" title="下载"></a></td>
+        </tr>
+        <tr class="">
+            <td>
+                <span class="index">35</span>            
+                <span class="checkbox1" data-fn="JTXU200001002" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-JTXU200001002.htm" target="_blank" title="论因特网对传统图书馆馆藏的影响">论因特网对传统图书馆馆藏的影响</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=06276488%3b&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/JTXU" title="晋图学刊" target="_blank">《晋图学刊》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2000-03-30
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>4</div></td>
+            <td><div>45</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/JTXU200001002?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=INFO0006" target="_blank" style="cursor:pointer;" data-fn="JTXU200001002" data-dbcode="CJFD" data-year="2000" title="下载"></a></td>
+        </tr>
+        <tr class="even-row">
+            <td>
+                <span class="index">36</span>            
+                <span class="checkbox1" data-fn="ZGTS201001015" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZGTS201001015.htm" target="_blank" title="2009年全国图书馆学博士生学术会议暨北京大学图书馆学开放论坛在京举办">2009年全国图书馆学博士生学术会议暨北京大学图书馆学开放论坛在京举办</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZGTS" title="中国图书馆学报" target="_blank">《中国图书馆学报》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2010-01-15
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>0</div></td>
+            <td><div>205</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/ZGTS201001015?dbcode=CJFD2010&amp;dbtype=CJFD&amp;year=2010&amp;dflag=cajdown&amp;cdno=INFO1003S4" target="_blank" style="cursor:pointer;" data-fn="ZGTS201001015" data-dbcode="CJFD" data-year="2010" title="下载"></a></td>
+        </tr>
+        <tr class="">
+            <td>
+                <span class="index">37</span>            
+                <span class="checkbox1" data-fn="HKTY200101023" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-HKTY200101023.htm" target="_blank" title="外文传播学核心期刊研制分析">外文传播学核心期刊研制分析</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/HKTY" title="河北科技图苑" target="_blank">《河北科技图苑》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2001-01-01
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>0</div></td>
+            <td><div>102</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/HKTY200101023?dbcode=CJFD2001&amp;dbtype=CJFD&amp;year=2001&amp;dflag=cajdown&amp;cdno=INFO0106" target="_blank" style="cursor:pointer;" data-fn="HKTY200101023" data-dbcode="CJFD" data-year="2001" title="下载"></a></td>
+        </tr>
+        <tr class="even-row">
+            <td>
+                <span class="index">38</span>            
+                <span class="checkbox1" data-fn="ZWQW200109026" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZWQW200109026.htm" target="_blank" title="信息时代的新兴职业──信息经纪人">信息时代的新兴职业──信息经纪人</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZWQW" title="中外企业文化" target="_blank">《中外企业文化》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2001-05-20
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>6</div></td>
+            <td><div>50</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/ZWQW200109026?dbcode=CJFD2001&amp;dbtype=CJFD&amp;year=2001&amp;dflag=cajdown&amp;cdno=ELAW0110" target="_blank" style="cursor:pointer;" data-fn="ZWQW200109026" data-dbcode="CJFD" data-year="2001" title="下载"></a></td>
+        </tr>
+        <tr class="">
+            <td>
+                <span class="index">39</span>            
+                <span class="checkbox1" data-fn="HKTY200001002" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-HKTY200001002.htm" target="_blank" title="Internet对传统图书馆的正负影响分析">Internet对传统图书馆的正负影响分析</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/HKTY" title="河北科技图苑" target="_blank">《河北科技图苑》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2000-03-30
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>5</div></td>
+            <td><div>29</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/HKTY200001002?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=INFO0006" target="_blank" style="cursor:pointer;" data-fn="HKTY200001002" data-dbcode="CJFD" data-year="2000" title="下载"></a></td>
+        </tr>
+        <tr class="even-row">
+            <td>
+                <span class="index">40</span>            
+                <span class="checkbox1" data-fn="ZWQW200001020" style="display:none;"></span>
+            </td>
+            <td>
+                <div class="name">
+            <a href="http://www.cnki.com.cn/Article/CJFDTOTAL-ZWQW200001020.htm" target="_blank" title="企业信息资源管理发展趋势">企业信息资源管理发展趋势</a>
+
+
+                </div>
+            </td>
+            <td>
+                <div>
+                    <a class="author" href=http://yuanjian.cnki.com.cn/scholar/Result?AuthorFilter=&amp;scholarName=%e5%bc%a0%e4%b9%85%e7%8f%8d target=&#39;_blank&#39; title=""><span style='color:red'>张久珍</span></a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                <a class="source-i" href="http://yuanjian.cnki.com.cn/CJFD/Detail/Index/ZWQW" title="中外企业文化" target="_blank">《中外企业文化》</a>
+
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    2000-01-15
+                </div>
+            </td>
+
+            <td><div>期刊</div></td>
+            <td><div>1</div></td>
+            <td><div>272</div></td>
+            <td class="bdgray"><a class="download" href="/Home/DownloadArticle/ZWQW200001020?dbcode=CJFD2000&amp;dbtype=CJFD&amp;year=2000&amp;dflag=cajdown&amp;cdno=ELAW0007S2" target="_blank" style="cursor:pointer;" data-fn="ZWQW200001020" data-dbcode="CJFD" data-year="2000" title="下载"></a></td>
+        </tr>
+
+        </tbody>
+    </table>
+<input type="hidden" value="69" id="hidTotalCount" class="pTotalCount" />
+<input type="hidden" value="" id="hidResultKeywords" />
+<script>
+    $("#totalcount").html("69");
+    $("#hidTotalPageCount").val("4");
+</script>
