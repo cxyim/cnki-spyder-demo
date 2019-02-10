@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from pprint import pprint as fprint
 import time
 import csv
+import math
     
 def get_doc_url_set(author_name):
     
@@ -46,7 +47,7 @@ def get_doc_url_set(author_name):
     #制定作者的文献数量
     total_count = int(bs.find("input",{"id":"hidTotalCount"})["value"])
     count_per_page = 20
-    page_count = total_count//count_per_page + 1
+    page_count = math.ceil(total_count/count_per_page)
 
     print(author_name,page_count)
     print(stop_time - start_time)
@@ -163,7 +164,10 @@ if __name__ == "__main__":
     #get_doc_url_set("张久珍")
     #print(get_next_page_doc_url_set("张久珍",1))
     #fprint(get_doc_url_set("张久珍"))
-    get_doc_bibilo(get_doc_url_set("张久珍"))
+    start_time = time.time()
+    get_doc_bibilo(get_doc_url_set("牛丽慧"))
+    stop_time = time.time()
+    print("total:",stop_time - start_time)
     pass
     
 
