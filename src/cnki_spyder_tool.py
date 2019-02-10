@@ -5,7 +5,7 @@ import time
 import csv
 import math
     
-def get_doc_url_set(author_name):
+def get_doc_url_set(author_name,unit_name):
     
     headers = {
         "Host":"yuanjian.cnki.com.cn",
@@ -34,7 +34,8 @@ def get_doc_url_set(author_name):
 
     data = {
         "searchType":"MulityTermsSearch",
-        "Author":author_name
+        "Author":author_name,
+        "Unit":unit_name
     }
 
     #网络延时是函数执行时间的大头
@@ -54,11 +55,11 @@ def get_doc_url_set(author_name):
 
     doc_url_set = list()
     for i in range(1,page_count+1):
-        doc_url_set.extend(get_next_page_doc_url_set(author_name,i))  
+        doc_url_set.extend(get_next_page_doc_url_set(author_name,i,unit_name))  
     
     return doc_url_set
 
-def get_next_page_doc_url_set(author_name,page_num):
+def get_next_page_doc_url_set(author_name,page_num,unit_name):
 
     headers = {
         "Host":"yuanjian.cnki.com.cn",
@@ -90,7 +91,8 @@ def get_next_page_doc_url_set(author_name,page_num):
         "ParamIsNullOrEmpty":"true",
         "Islegal":"false",
         "Order":"1",
-        "Page":page_num        
+        "Page":page_num,
+        "Unit":unit_name
     }
 
     start_time = time.time()
@@ -103,60 +105,64 @@ def get_next_page_doc_url_set(author_name,page_num):
     print(stop_time - start_time)
     return doc_url_set
 
-def get_doc_bibilo(doc_url_set):
+def get_doc_bibilo(doc_url):
 
     res_file = open("res.csv","a",encoding="utf-8",newline="")
     csv_writer = csv.writer(res_file,delimiter="\t")
 
-    for doc_url in doc_url_set:
-        start_time = time.time()
-        r = requests.get(doc_url)
-        stop_time = time.time()
+    start_time = time.time()
+    r = requests.get(doc_url,allow_redirects=False)
+    stop_time = time.time()
 
-        bs = BeautifulSoup(r.text,"html.parser")
-        
-        #journal
-        try:
-            journal = bs.find("b").text.strip()
-        except:
-            journal = " "
+    bs = BeautifulSoup(r.text,"html.parser")
 
-        #title
+    #journal
+    try:
+        journal = bs.find("b").text.strip()
+    except:
+        journal = " "
+
+    #title
+    try:
         title = bs.find("h1").text.strip()
-
-        #author
+    except:
+        title = " "
+        
+    #author
+    author_list = list()
+    try:
         res = bs.find("div",{"style":"text-align:center; width:740px; height:30px;"})
-        author_list = list()
         for item in res.find_all("a"):
             author_list.append(item.string.strip())
-
-        #abstract
+    except:
+        pass
+    #abstract
 #         try:
 #             abstract = bs.find("div",{"style":"text-align:left;word-break:break-all"}).font.next_sibling.string.strip()
 #         except:
 #             abstract = " "
 
-        #address
-        try:
-            address = bs.find("div",{"style":"text-align:left;"}).a.string.strip()
-        except:
-            address = " "
-            
-        #keywords
-        try:
-            keyword_list = bs.find("meta",{"name":"keywords"})["content"].split()
-        except:
-            keyword_list = []
+    #address
+    try:
+        address = bs.find("div",{"style":"text-align:left;"}).a.string.strip()
+    except:
+        address = " "
 
-        #year
-        try:
-            year = bs.find("font",{"color":"#0080ff"}).string.strip()[:4]
-        except:
-            year = " "
-        
-        tmp = (title,";".join(author_list),journal,address,year,";".join(keyword_list))
-        csv_writer.writerow(tmp)
-        print(stop_time-start_time)
+    #keywords
+    try:
+        keyword_list = bs.find("meta",{"name":"keywords"})["content"].split()
+    except:
+        keyword_list = []
+
+    #year
+    try:
+        year = bs.find("font",{"color":"#0080ff"}).string.strip()[:4]
+    except:
+        year = " "
+
+    tmp = (title,";".join(author_list),journal,address,year,";".join(keyword_list))
+    csv_writer.writerow(tmp)
+    print(stop_time-start_time)
         
 
 
@@ -165,7 +171,8 @@ if __name__ == "__main__":
     #print(get_next_page_doc_url_set("张久珍",1))
     #fprint(get_doc_url_set("张久珍"))
     start_time = time.time()
-    get_doc_bibilo(get_doc_url_set("牛丽慧"))
+    tmp = get_doc_url_set("牛丽慧","南京大学")
+    get_doc_bibilo(tmp[0])
     stop_time = time.time()
     print("total:",stop_time - start_time)
     pass
