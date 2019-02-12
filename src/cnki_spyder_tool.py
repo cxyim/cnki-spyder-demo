@@ -9,25 +9,25 @@ def get_doc_url_set(author_name,unit_name):
     
     headers = {
         "Host":"yuanjian.cnki.com.cn",
-	"Connection":"keep-alive",
-	"Content-Length":"63",
-	"Cache-Control":"max-age=0",
-	"Origin":"http://yuanjian.cnki.com.cn",
-	"Upgrade-Insecure-Requests":"1",
-	"DNT":"1",
-	"Content-Type":"application/x-www-form-urlencoded",
-	"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36",
-	"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
-	"Referer":"http://yuanjian.cnki.com.cn/",
-	"Accept-Encoding":"gzip, deflate",
-	"Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8"
+    "Connection":"keep-alive",
+    "Content-Length":"63",
+    "Cache-Control":"max-age=0",
+    "Origin":"http://yuanjian.cnki.com.cn",
+    "Upgrade-Insecure-Requests":"1",
+    "DNT":"1",
+    "Content-Type":"application/x-www-form-urlencoded",
+    "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36",
+    "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+    "Referer":"http://yuanjian.cnki.com.cn/",
+    "Accept-Encoding":"gzip, deflate",
+    "Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8"
     }
 
     cookies = {
         "UM_distinctid":"168ae2b533519-0c21eda9d60a5f-57b143a-ea600-168ae2b533827",
-	"KEYWORD":"%E5%BC%A0%E4%B9%85%E7%8F%8D%24%E7%89%9B%E4%B8%BD%E6%85%A7%24%E7%9F%AD%E5%B0%8F%E8%8A%BD%E5%AD%A2%E6%9D%86%E8%8F%8C%E8%A1%A8%E8%BE%BE%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%BC%98%E5%8C%96%E7%A0%94%E7%A9%B6",
-	"SID":"110105",
-	"CNZZDATA1257838124":"249878561-1549106680-%7C1549701224"
+    "KEYWORD":"%E5%BC%A0%E4%B9%85%E7%8F%8D%24%E7%89%9B%E4%B8%BD%E6%85%A7%24%E7%9F%AD%E5%B0%8F%E8%8A%BD%E5%AD%A2%E6%9D%86%E8%8F%8C%E8%A1%A8%E8%BE%BE%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%BC%98%E5%8C%96%E7%A0%94%E7%A9%B6",
+    "SID":"110105",
+    "CNZZDATA1257838124":"249878561-1549106680-%7C1549701224"
     }
     
     base_url = "http://yuanjian.cnki.net/Search/Result"
@@ -78,9 +78,9 @@ def get_next_page_doc_url_set(author_name,page_num,unit_name):
 
     cookies = {
         "UM_distinctid":"168ae2b533519-0c21eda9d60a5f-57b143a-ea600-168ae2b533827",
-	"KEYWORD":"%E5%BC%A0%E4%B9%85%E7%8F%8D%24%E7%89%9B%E4%B8%BD%E6%85%A7%24%E7%9F%AD%E5%B0%8F%E8%8A%BD%E5%AD%A2%E6%9D%86%E8%8F%8C%E8%A1%A8%E8%BE%BE%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%BC%98%E5%8C%96%E7%A0%94%E7%A9%B6",
-	"SID":"110105",
-	"CNZZDATA1257838124":"249878561-1549106680-%7C1549701224"
+    "KEYWORD":"%E5%BC%A0%E4%B9%85%E7%8F%8D%24%E7%89%9B%E4%B8%BD%E6%85%A7%24%E7%9F%AD%E5%B0%8F%E8%8A%BD%E5%AD%A2%E6%9D%86%E8%8F%8C%E8%A1%A8%E8%BE%BE%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%BC%98%E5%8C%96%E7%A0%94%E7%A9%B6",
+    "SID":"110105",
+    "CNZZDATA1257838124":"249878561-1549106680-%7C1549701224"
     }
 
     base_url = "http://yuanjian.cnki.net/Search/Result"
@@ -105,9 +105,8 @@ def get_next_page_doc_url_set(author_name,page_num,unit_name):
     print(stop_time - start_time)
     return doc_url_set
 
-def get_doc_bibilo(doc_url):
+def get_doc_bibilo(doc_url,res_file):
 
-    res_file = open("res.csv","a",encoding="utf-8",newline="")
     csv_writer = csv.writer(res_file,delimiter="\t")
 
     start_time = time.time()
@@ -171,8 +170,9 @@ if __name__ == "__main__":
     #print(get_next_page_doc_url_set("张久珍",1))
     #fprint(get_doc_url_set("张久珍"))
     start_time = time.time()
-    tmp = get_doc_url_set("牛丽慧","南京大学")
-    get_doc_bibilo(tmp[0])
+    tmp = get_doc_url_set("牛丽慧","南京大学")    
+    res_file = open("../data/res_test.csv","a",encoding="utf-8",newline="")
+    get_doc_bibilo(tmp[0],res_file)
     stop_time = time.time()
     print("total:",stop_time - start_time)
     pass
