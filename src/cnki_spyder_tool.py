@@ -1,12 +1,50 @@
+"""
+Eng:
+This module is written for scraping bibilograph of literature from cnki.
+It relies on python modules below:
+1. requests
+2. bs4
+you can easily get them using tool like pip.
+
+中文：
+这个模块用来爬取中国知网的文献题录。
+它依赖于以下的Python模块：
+1.requests
+2.bs4
+你可以使用像pip这样的工具容易地获取它们。
+"""
+
+
 import requests
 from bs4 import BeautifulSoup
-from pprint import pprint as fprint
+#ensure that you have installed python modules as above
+
 import time
 import csv
 import math
+
     
 def get_doc_url_set(author_name,unit_name):
+    """
+    This function simulates the behavior that you open the website:
+    http://yuanjian.cnki.com.cn/
+    and enter the dictionary:
+    {"作者":"foo","作者单位":"bar"}
+    and click the search button
+    as you get the response page, you can get url set of all the page,
+    it needs support of function:
+    def get_next_page_doc_url_set(author_name,page_num,unit_name):
+    to deal with the demond of page turning
     
+    Args:
+        author_name:  author's name
+        unit_name: author's unit name
+       
+    Returns:
+        return set of doc urls 
+    """
+    
+    #http messsage' header 
     headers = {
         "Host":"yuanjian.cnki.com.cn",
     "Connection":"keep-alive",
@@ -32,35 +70,44 @@ def get_doc_url_set(author_name,unit_name):
     
     base_url = "http://yuanjian.cnki.net/Search/Result"
 
+    #can easily be extended in the future
     data = {
         "searchType":"MulityTermsSearch",
         "Author":author_name,
         "Unit":unit_name
     }
 
-    #网络延时是函数执行时间的大头
-    start_time = time.time()
     r = requests.post(base_url,cookies = cookies,headers = headers,data = data)
-    stop_time = time.time()
 
     bs = BeautifulSoup(r.text,"html.parser")
     
-    #制定作者的文献数量
     total_count = int(bs.find("input",{"id":"hidTotalCount"})["value"])
     count_per_page = 20
     page_count = math.ceil(total_count/count_per_page)
 
     print(author_name,page_count)
-    print(stop_time - start_time)
 
     doc_url_set = list()
     for i in range(1,page_count+1):
+        #turn page and add urls of each page to doc_url_set
         doc_url_set.extend(get_next_page_doc_url_set(author_name,i,unit_name))  
     
     return doc_url_set
 
 def get_next_page_doc_url_set(author_name,page_num,unit_name):
-
+    """
+    this function support the function:
+    def get_doc_url_set(author_name,unit_name):
+    get urls of specified page.
+    
+    Args:
+        author_name: author's name
+        page_num: specified page number
+        unit_name: author's unit name
+        
+    Return:
+        return set of doc urls  
+    """
     headers = {
         "Host":"yuanjian.cnki.com.cn",
         "Connection":"keep-alive",
@@ -95,23 +142,25 @@ def get_next_page_doc_url_set(author_name,page_num,unit_name):
         "Unit":unit_name
     }
 
-    start_time = time.time()
     r = requests.post(base_url,cookies = cookies,headers = headers,data = data)
-    stop_time = time.time()
 
     bs = BeautifulSoup(r.text,"html.parser")
     doc_url_set = [item["href"] for item in bs.find_all("a",{"target":"_blank","class":"left"})]
     
-    print(stop_time - start_time)
     return doc_url_set
 
 def get_doc_bibilo(doc_url,res_file):
 
+    """
+    this function return bibliograph of the specified doc url by writting into the specified file
+    
+    Args:
+        doc_url: specified doc url
+        res_file: target res file
+    """
     csv_writer = csv.writer(res_file,delimiter="\t")
 
-    start_time = time.time()
     r = requests.get(doc_url,allow_redirects=False)
-    stop_time = time.time()
 
     bs = BeautifulSoup(r.text,"html.parser")
 
@@ -160,22 +209,16 @@ def get_doc_bibilo(doc_url,res_file):
         year = " "
 
     tmp = (title,";".join(author_list),journal,address,year,";".join(keyword_list))
-    csv_writer.writerow(tmp)
-    print(stop_time-start_time)
-        
+    csv_writer.writerow(tmp)       
 
 
 if __name__ == "__main__":
-    #get_doc_url_set("张久珍")
-    #print(get_next_page_doc_url_set("张久珍",1))
-    #fprint(get_doc_url_set("张久珍"))
     start_time = time.time()
     tmp = get_doc_url_set("牛丽慧","南京大学")    
     res_file = open("../data/res_test.csv","a",encoding="utf-8",newline="")
     get_doc_bibilo(tmp[0],res_file)
     stop_time = time.time()
     print("total:",stop_time - start_time)
-    pass
     
 
     

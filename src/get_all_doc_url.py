@@ -7,7 +7,7 @@ from pprint import pprint as fprint
 
 if __name__ == "__main__":
     
-    input_file = open("../data/sub_userinfo_copy.csv","r",encoding="utf-8")
+    input_file = open("../data/raw_csv/4_copy.csv","r",encoding="utf-8")
     csv_reader = csv.reader(input_file,delimiter=",")
     
     author_set = set()
@@ -21,7 +21,7 @@ if __name__ == "__main__":
 
     doc_url_set = set()
     for author_name,unit_name in author_set:
-        doc_url_file = open("../data/doc_url.txt","a",encoding="utf-8")
+        doc_url_file = open("../data/doc_url/4_copy.txt","a",encoding="utf-8")
         tmp = cnki.get_doc_url_set(author_name,unit_name)
         for url in tmp:
             if url not in doc_url_set:
